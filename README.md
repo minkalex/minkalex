@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poiret+One&size=25&duration=3000&pause=500&color=70E852&multiline=true&width=800&height=100&lines=Hey%2C+I'm+Alex!+%F0%9F%91%8B;Developer+by+education+and+a+state+of+mind.;I+completely+agree+with+the+statement%2C+that+there's+no+limit+to+perfection.)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poiret+One&size=25&duration=3000&pause=500&color=FE9E76&multiline=true&width=800&height=100&lines=Hey%2C+I'm+Alex!+%F0%9F%91%8B;Developer+by+education+and+a+state+of+mind.;I+completely+agree+with+the+statement%2C+that+there's+no+limit+to+perfection.)](https://git.io/typing-svg)
 
     💪 Tech stack:
 ![PHP](https://img.shields.io/badge/php-465189.svg?style=for-the-badge&logo=php&logoColor=white)
