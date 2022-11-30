@@ -43,4 +43,4 @@
     💻️ A full stack developer in an outsource IT company "Face IT" in Ukraine
     鏤️ Have several tattoos
     🎧️ Trance music fan
-    🎓️ I wanted to quit university, didn't want to be a programmer
+    🇺🇦 I'M UKRAINIAN
