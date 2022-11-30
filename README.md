@@ -11,6 +11,10 @@
 ![Git](https://img.shields.io/badge/git-f74223.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-1b81e6.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/aws%20s3-48981f.svg?style=for-the-badge&logo=amazons3&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-2279fe.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/asana-e35758.svg?style=for-the-badge&logo=asana&logoColor=white)
+![Wrike](https://img.shields.io/badge/wrike-09c54c.svg?style=for-the-badge&logo=wrike&logoColor=white)
+![Lucid](https://img.shields.io/badge/lucid-222328.svg?style=for-the-badge&logo=lucid&logoColor=white)
 
 ![Laravel](https://img.shields.io/badge/laravel-ff1e12.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel Nova](https://img.shields.io/badge/laravel%20nova-00e1ff.svg?style=for-the-badge&logo=laravelnova&logoColor=white)
