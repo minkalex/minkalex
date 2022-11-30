@@ -9,6 +9,7 @@
 ![HTML](https://img.shields.io/badge/html-d54022.svg?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-005bae.svg?style=for-the-badge&logo=css&logoColor=black)
 ![Git](https://img.shields.io/badge/git-f74223.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1b81e6.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/aws%20s3-48981f.svg?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ![Laravel](https://img.shields.io/badge/laravel-ff1e12.svg?style=for-the-badge&logo=laravel&logoColor=white)
