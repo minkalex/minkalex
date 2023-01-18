@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-e9ce1b.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/rest%20api-555555.svg?style=for-the-badge&logo=api&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-386890.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-01ED64.svg?style=for-the-badge&logo=mongodb&logoColor=black)
 ![MSSQL](https://img.shields.io/badge/mssql-386890.svg?style=for-the-badge&logo=mssql&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-d54022.svg?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-005bae.svg?style=for-the-badge&logo=css&logoColor=black)
